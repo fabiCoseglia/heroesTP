@@ -1,2 +1,3 @@
 # HEREOS TP - GIT
-## Integrantes: Fabian Coseglia, Melina Gimenez
+## Integrantes:
+Fabian Coseglia, 30 , San Miguel
